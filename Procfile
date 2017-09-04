@@ -1,2 +1,2 @@
 web: go run main.go
-run.3000
+dyno: run.3000
